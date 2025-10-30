@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Desktop AI Study Buddy" type="Application" factoryName="Application">
+    <envs>
+      <env name="Buddy_Emotion_Responder" value="[Insert API KEY HERE]" />
+      <env name="Buddy_Text_Responder" value="[Insert API KEY HERE]" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <module name="DesktopAIStudyBuddy" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.example.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
