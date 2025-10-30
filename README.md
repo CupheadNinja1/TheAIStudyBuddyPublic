@@ -17,6 +17,10 @@ Profile: https://scratch.mit.edu/users/Isaac_Coronado/
 
 This app's purpose is to provide a helpful and academically responsible AI Assistant for students who are unable to connect with a human study buddy.
 
+==== YT Video ====
+
+https://youtu.be/CK9eOPwixsE
+
 ==== Requirements ==== 
 
 1. IntelliJ IDEA Community Edition
