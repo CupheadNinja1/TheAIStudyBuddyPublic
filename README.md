@@ -2,24 +2,24 @@
 
 ==== Created By ====
 
-Isaac Coronado and Weston Eiserman
+   Isaac Coronado and Weston Eiserman
 
 === Art/Sprites ===
 
-By: Isaac Coronado
+   By: Isaac Coronado
 
-Using: Scratch.mit.edu
+   Using: Scratch.mit.edu
 
-Profile: https://scratch.mit.edu/users/Isaac_Coronado/
+   Profile: https://scratch.mit.edu/users/Isaac_Coronado/
 
 
 ==== App Description ====
 
-This app's purpose is to provide a helpful and academically responsible AI Assistant for students who are unable to connect with a human study buddy.
+   This app's purpose is to provide a helpful and academically responsible AI Assistant for students who are unable to connect with a human study buddy.
 
 ==== YT Video ====
 
-https://youtu.be/CK9eOPwixsE
+   https://youtu.be/CK9eOPwixsE
 
 ==== Requirements ==== 
 
